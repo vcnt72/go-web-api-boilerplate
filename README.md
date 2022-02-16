@@ -6,7 +6,7 @@ you can experiment with every technology and concept that you want.
 - [x] Logger using Zap<br>
 - [x] Gin<br>
 - [x] Graceful Shutdown
-- [x] Environment Variable are using VIPER<br>
+- [x] Enviroment variable management<br>
 - [x] VSCode Debugger<br>
 - [ ] Testing utility<br>
 - [ ] CI/CD<br>
